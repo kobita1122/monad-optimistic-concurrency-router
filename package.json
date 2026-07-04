@@ -1,0 +1,10 @@
+{
+  "name": "monad-optimistic-concurrency-router",
+  "version": "1.0.0",
+  "description": "Storage-aware optimistic concurrency transaction scheduling router for Monad EVM",
+  "main": "launchOccRouter.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
